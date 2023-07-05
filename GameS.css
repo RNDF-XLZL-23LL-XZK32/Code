@@ -1,0 +1,63 @@
+/**
+ * @name gamesense.dog
+ * @author iv3tka#6182
+ * @version 1.0.0
+  * @description Get Good. Get [GameSense.dog](http://gamesense.dog/). 〡 Join to the [gamesense.dog discord server](https://discord.gg/8kg8qdSBBt).
+ * @source https://github.com/maenDisease/BetterDiscordStuff/tree/main/Themes/Solana
+*/
+
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
+:root {
+  --accent-hue: 76;
+  --accent-saturation: 70%;
+  --accent-brightness: 40%;
+  --background-accent-hue: 75;
+  --background-accent-saturation: 98%;
+  --background-accent-brightness: 73%;
+  --background-image: url('https://i.imgur.com/w4wusTm.png'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: center;
+  --background-image-size: cover;
+  --background-image-blur: 0px;
+  --background-overlay-opacity: 12%;
+  --background-overlay-color-lightness: 0.41;
+  --background-hue-shift-strength: 100%;
+  --window-background-image: url('https://i.imgur.com/w4wusTm.png');
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 28%;
+  --window-blur: 0;
+  --window-friends-blur: 0;
+  --window-margin: 24;
+  --window-margin-left: 0;
+  --window-border-radius: 22px;
+  --window-background-lightness: -1;
+  --window-accent-tint-strength: 14%;
+  --chat-bubble: 1;
+  --text-link-hue: 98;
+  --chat-text-brightness: 0.98;
+  --home-icon: url('https://i.imgur.com/enoDxlA.png');
+  --favorites-icon: url('https://i.imgur.com/2c6N3oX.png');
+  --dock-blur: 0; /* Blur intensity of the dock. */
+  --dock-border-radius: -0.07;
+  --sidebar-width: 235px;
+  --members-width: 190px;
+  --sidebar-text-brightness: 0.17;
+  --background-floating-blur: 14px;
+  --floating-background-lightness: 0;
+  --background-floating-opacity: 1;
+  --enable-floating-transparency: 1;
+  --custom-font-display: "";
+  --custom-font-regular: "";
+  --custom-font-primary: "";
+  --custom-font-code: "";
+  --enable-blur: 1;
+}
+
+/* Any custom CSS below here */
+
+
